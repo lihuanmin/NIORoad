@@ -26,7 +26,7 @@ Buffer本质上是一块可以写入数据，然后可以从中读取数据的�
 
 这些种类代表了不同的数据类型。其中MappedByteBuffer是ByteBuffer专门用于内存映射文件的一种特例。
 
-![](G:/Java/pic/NIO_Buffer_structure.png)
+![](https://github.com/lihuanmin/NIORoad/blob/master/pic/NIO_Buffer_structure.png)
 
 ## Buffer属性
 
